@@ -11,7 +11,7 @@ function App() {
   return (
     <>
 
-    <div className="App" style={{background: "lightblue" ,height: "200px", width: "50%", marginLeft: "20%", paddingTop: "2%"}}>
+    <div className="App" style={{background: "lightblue" ,height: "200px", width: "50%", marginLeft: "25%", paddingTop: "2%"}}>
         <h1 className='text-black'>React Dropdown</h1>
           <button className="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" type="button" onClick={() => setShow(true)}>
             Dropdown button
