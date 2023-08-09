@@ -1,3 +1,69 @@
+
+# dropdown
+
+Coding Ninjas React Skill Test-1
+
+Dropdown to show a List of elements from an array which when selected should be displayed below . Simple example of passing props and state management
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nisarg39/hospitalApi.git
+```
+
+Go to the project directory
+
+```bash
+  cd hospitalApi
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
+## FileStructure
+
+```
+📦 
+├─ .gitignore
+├─ README.md
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+└─ src
+   ├─ App.css
+   ├─ App.js
+   ├─ ListItems.js
+   ├─ index.css
+   └─ index.js
+```
+
+## Authors
+
+- [@Nisarg39](https://github.com/Nisarg39)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
